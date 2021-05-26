@@ -10,6 +10,8 @@ used for compilation).
 
 Scala 2.13 is used by default, see below for how to use a different Scala version or all of the supported Scala versions.
 
+from:dgd_contributor
+
 ### Build a jar and run it ###
     ./gradlew jar
 
